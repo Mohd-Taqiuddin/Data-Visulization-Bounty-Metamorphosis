@@ -2,7 +2,7 @@
 
 ## Visualization of collected datasets
 
-## Dune Analytics
+### Dune Analytics
 - Opensea NFT Phishing: https://dune.com/taqi/nft-phishing
 - Phishing scams through bitly: https://dune.com/taqi/phishing-scams-through-bitly
 - NFT attaks and phishing reports: https://dune.com/taqi/nft-attacks-phishing-reports
@@ -50,3 +50,5 @@ Dashboards: https://dune.com/taqi
 - scripts: https://github.com/Mohd-Taqiuddin/Data-Collection-Bounty-Metamorphosis-/blob/main/CryptoScamDB%20Data/cryptoscamDB.py <br>
 https://github.com/Mohd-Taqiuddin/Data-Collection-Bounty-Metamorphosis-/blob/main/CryptoScamDB%20Data/cryptoscamDB-blacklisted%20domains.py <br>
 https://github.com/Mohd-Taqiuddin/Data-Collection-Bounty-Metamorphosis-/blob/main/CryptoScamDB%20Data/cryptoscamDB%20malicious-ips.py
+
+Data Collection: https://github.com/Mohd-Taqiuddin/Data-Collection-Bounty-Metamorphosis-
