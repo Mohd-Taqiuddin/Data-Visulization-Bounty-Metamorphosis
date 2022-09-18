@@ -26,7 +26,7 @@ Dashboards: https://dune.com/taqi
 
 
 
-## Collecting datasets for the Metamorphosis Hackathon-Honest Protocol
+
 
 ## Data Collection from Dune Analytics
 
