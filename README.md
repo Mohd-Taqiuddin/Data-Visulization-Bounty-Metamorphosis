@@ -23,6 +23,8 @@
 -  Hacks, Scandals and Scams 5 Optimism Airdrop: https://dune.com/taqi/hacks-scandals-and-scams-5-optimism-airdrop
 Dashboards: https://dune.com/taqi
 
+### CryptoScamDB - visualization of different scams
+<img src="https://github.com/Mohd-Taqiuddin/Data-Visulization-Bounty-Metamorphosis/blob/main/cryptoscamdb.png" />
 
 
 
