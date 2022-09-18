@@ -27,7 +27,7 @@ Dashboards: https://dune.com/taqi
 
 
 
-
+## Data Collection logic
 ## Data Collection from Dune Analytics
 
 - Written a python script to query data from Dune Analytics and save it in a csv file
